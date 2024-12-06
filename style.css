@@ -1,0 +1,47 @@
+.nav-item a{
+    text-decoration: none;
+    color: grey;
+    
+}
+.nav-item{
+    
+    list-style: none;
+}
+.nav-item a:hover{
+border-bottom: 3px solid #F9BF29;
+color: white;
+}
+.hero{
+    background-color: #3B5D50;
+    margin-bottom: 20px;
+ 
+}
+
+button{
+   
+    border-radius: 15px;
+    
+}
+.product-item a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.img-choos{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+.why-choos-us-section .img-wrap{
+    position: absolute;
+   border-radius: 20px;
+    background-image:  url("../images/dots-yellow.svg");
+
+}
+.img-wrap{
+    border-radius: 10%;
+}
+.we-help-section{
+    padding: 7rem;
+}
